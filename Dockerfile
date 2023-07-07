@@ -1,3 +1,1 @@
-FROM ghcr.io/coder/code-server:4.14.1-bullseye
-COPY config.yaml /home/coder/.config/code-server/
-RUN echo root:123456..|chpasswd
+FROM vscwjm/myvscode/root-test
