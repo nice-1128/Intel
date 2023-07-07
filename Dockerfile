@@ -1,1 +1,1 @@
-FROM vscwjm/myvscode/root-test
+FROM vscwjm/myvscode:root-test
